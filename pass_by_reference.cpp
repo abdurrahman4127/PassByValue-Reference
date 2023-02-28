@@ -5,7 +5,6 @@ using namespace std;
 void printValues(int &a, int &b){
     cout << "a: " << a << endl;
     cout << "b: " << b << endl;
-
 }
 
 // changes because we're just passing references
